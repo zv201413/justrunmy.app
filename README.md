@@ -6,11 +6,11 @@
 <img width="1269" height="842" alt="image" src="https://github.com/user-attachments/assets/016ac2fb-71ab-48be-b967-cda8039ecabe" />
 
 <img width="572" height="329" alt="image" src="https://github.com/user-attachments/assets/afe44034-7c9b-4c42-8db9-ea23ad144a19" />
-
 第一项版本号建议改成“22”
+
 <img width="467" height="526" alt="image" src="https://github.com/user-attachments/assets/2f407079-e548-46f6-9358-352793f00e70" />
 
-出现这个就好了
+出现这个进度条就好了
 <img width="1194" height="192" alt="image" src="https://github.com/user-attachments/assets/c4aad40c-05fa-4aba-857c-d388b248238a" />
 
 这一页建议按照我的这个项目（https://github.com/zv201413/zvps-super）或者自行配置，因为本项目所需镜像文件本质上是在此基础上修改的，更多高级玩法请参考之
