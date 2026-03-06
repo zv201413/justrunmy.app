@@ -15,7 +15,7 @@
 ## 出现这个进度条就好了
 <img width="1194" height="192" alt="image" src="https://github.com/user-attachments/assets/c4aad40c-05fa-4aba-857c-d388b248238a" />
 
-## 这一页建议按照我的这个项目（https://github.com/zv201413/zvps-super）或者自行配置，因为本项目所需镜像文件本质上是在此基础上修改的，更多高级玩法请参考之
+## 这一页建议按照我的这个项目"https://github.com/zv201413/zvps-super" 或者自行配置，因为本项目所需镜像文件本质上是在此基础上修改的，更多高级玩法请参考之
 <img width="1571" height="868" alt="image" src="https://github.com/user-attachments/assets/50b51a3f-3652-4758-b33e-059aa041e537" />
 
 ## 最后run就好了
