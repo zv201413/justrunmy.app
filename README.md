@@ -27,6 +27,7 @@
 
 ## 这一页建议按照我的这个项目"https://github.com/zv201413/zvps-super" 或者自行配置，因为本项目所需镜像文件本质上是在此基础上修改的，更多高级玩法请参考之
 <img width="1571" height="868" alt="image" src="https://github.com/user-attachments/assets/50b51a3f-3652-4758-b33e-059aa041e537" />
+
 ### 也可以直接参考我的配置（参数含义请看另一个项目说明）
 <img width="1472" height="899" alt="image" src="https://github.com/user-attachments/assets/a1594e09-36b2-4109-97a6-b3b36e6b49c6" />
 
