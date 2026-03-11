@@ -9,8 +9,8 @@
 ### 1. 源码打包 (关键)
 为了确保平台能够正确识别入口文件，打包时请遵循“一级压缩”原则：
 * 下载本项目源码并解压。
-* **选定所有文件（不要选定文件夹）**重新压缩为 `.zip`。
-* *确保压缩包打开后直接看到文件，而不是另一个目录。*
+* **选定所有文件（不要选定文件夹）** 重新压缩为 `.zip`。
+* 确保压缩包打开后直接看到文件，而不是另一个目录。
 
 <img width="280" height="93" alt="image" src="https://github.com/user-attachments/assets/4a5693b4-71e0-4f1e-9b91-460179671783" />
 
@@ -39,7 +39,7 @@
 <img width="1554" height="894" alt="image" src="https://github.com/user-attachments/assets/b00dce16-ea8a-401b-9bcd-1897e66a7b00" />
 
 ### 5. 启动服务
-确认无误后点击 **Start**。部署成功后，你可以在 Shell 终端进行实时操作。
+确认无误后点击 **Start**。部署成功后，你可以在 Shell 终端进行实时操作。此时欢迎点个 Star ⭐️ 支持一下
 
 <img width="1510" height="317" alt="image" src="https://github.com/user-attachments/assets/476eed4e-6ee7-4934-9a54-0967d75437ae" />
 
@@ -48,6 +48,4 @@
 ## 📝 补充说明
 * **简易 VPS**: 本质上这是一个 Node.js 环境的容器，你可以通过 Web Shell 执行 Linux 命令。
 * **本地 SSH**: 配合相关内网穿透项目，可实现本地终端直接 SSH 接入。
-* **Star**: 如果本项目对你有帮助，欢迎点个 Star ⭐️ 支持一下！
-
 <img width="731" height="657" alt="image" src="https://github.com/user-attachments/assets/e8d7589a-0a9e-40a7-ae68-c40392c9fc64" />
