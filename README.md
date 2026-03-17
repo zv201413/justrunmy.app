@@ -9,6 +9,8 @@
 ### 1. 源码打包 (关键)
 为了确保平台能够正确识别入口文件，打包时请遵循“一级压缩”原则：
 * 下载本项目源码并解压。
+<img width="843" height="666" alt="image" src="https://github.com/user-attachments/assets/75df34b1-e2c2-4be3-a15f-cf0c19cb4c8d" />
+
 * **选定所有文件（不要选定文件夹）** 重新压缩为 `.zip`。
 * 确保压缩包打开后直接看到文件，而不是另一个目录。
 
