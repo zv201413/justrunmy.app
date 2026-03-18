@@ -48,6 +48,8 @@
 
 <img width="1510" height="317" alt="image" src="https://github.com/user-attachments/assets/476eed4e-6ee7-4934-9a54-0967d75437ae" />
 
+> [!IMPORTANT]
+> 注意**添加内部端口**之后需要**重启容器**才会更新外部端口，切忌直接使用设置的内部端口
 ---
 
 ## 📝 补充说明
