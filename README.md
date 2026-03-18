@@ -55,7 +55,9 @@
 * **简易 VPS**: 本质上这是一个 Node.js 环境的容器，你可以通过 Web Shell 执行 Linux 命令。
 * **本地 SSH**: 配合相关内网穿透项目，可实现本地终端直接 SSH 接入。
 <img width="731" height="657" alt="image" src="https://github.com/user-attachments/assets/e8d7589a-0a9e-40a7-ae68-c40392c9fc64" />
-* **集成ttyd**:网页自带ssh可能会崩，此时添加https端口7681
+* **集成ttyd**:网页自带ssh可能会崩(如下)
+* <img width="681" height="486" alt="image" src="https://github.com/user-attachments/assets/98e0bb53-0bea-472e-aa04-8d743ed62c8b" />
+### 此时添加https端口7681
 <img width="1343" height="672" alt="image" src="https://github.com/user-attachments/assets/c81e599d-4664-4959-94ba-e92d795d0ce4" />
 ### 点击链接登录ttyd
 <img width="1241" height="857" alt="image" src="https://github.com/user-attachments/assets/61e00572-9eac-4318-9538-2af45774aa7c" />
