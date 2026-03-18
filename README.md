@@ -54,7 +54,6 @@
 ## 📝 补充说明
 * **简易 VPS**: 本质上这是一个 Node.js 环境的容器，你可以通过 Web Shell 执行 Linux 命令。
 * <img width="731" height="657" alt="image" src="https://github.com/user-attachments/assets/e8d7589a-0a9e-40a7-ae68-c40392c9fc64" />
-
 * **本地 SSH**: 配合相关内网穿透项目，可实现本地终端直接 SSH 接入。
 * **集成ttyd**:网页自带ssh可能会崩(如下)
 
