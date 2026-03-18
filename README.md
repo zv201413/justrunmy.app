@@ -39,9 +39,8 @@
 > [!IMPORTANT]
 > 注意**Settings**里的端口是内部端口
 > <img width="1542" height="479" alt="image" src="https://github.com/user-attachments/assets/3ae74e2e-451b-4551-822b-54612b6c5758" />
-> 生成节点后要在代理app中替换为**General**的外部端口
+> 生成节点后要在代理app中替换为**General**的外部端口（点击 **Start** 或 **Restart** 才会出现）
 > <img width="1333" height="588" alt="image" src="https://github.com/user-attachments/assets/c19abda1-1216-4c33-92ce-ad8e5e50c813" />
-> 注意**添加内部端口**之后需要**重启容器**才会更新外部端口，切忌直接使用设置的内部端口
 
 ### 5. 启动服务
 确认无误后点击 **Start**。部署成功后，你可以在 Shell 终端进行实时操作。此时欢迎点个 Star ⭐️ 支持一下
