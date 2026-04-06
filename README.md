@@ -31,7 +31,10 @@
 
 ### 4. 镜像与高级配置
 镜像建议使用配套项目，或根据需求自定义：
-* **推荐镜像**: [zvps-super](https://github.com/zv201413/zvps-super)
+* **推荐镜像**: [zvps-super](https://github.com/zv201413/zvps-super) 小白建议复制粘贴以下镜像
+```bash
+ghcr.io/zv201413/zvps:20260405-b0a1631
+```
 * **参数配置**: 详细参数含义请参考上述项目的说明文档。
 
 <img width="923" height="416" alt="image" src="https://github.com/user-attachments/assets/9ce152a3-23c3-4ef7-986d-14d8b77f9758" />
@@ -55,11 +58,7 @@
 * **简易 VPS**: 本质上这是一个 Node.js 环境的容器，你可以通过 Web Shell 执行 Linux 命令。
 * <img width="731" height="657" alt="image" src="https://github.com/user-attachments/assets/e8d7589a-0a9e-40a7-ae68-c40392c9fc64" />
 * **本地 SSH**: 配合相关内网穿透项目，可实现本地终端直接 SSH 接入。
-* **集成ttyd**:网页自带ssh可能会崩(如下)
-
-* <img width="681" height="486" alt="image" src="https://github.com/user-attachments/assets/98e0bb53-0bea-472e-aa04-8d743ed62c8b" />
-
-### 此时添加https端口7681
+* **集成ttyd**:添加https端口7681
 
 <img width="1343" height="672" alt="image" src="https://github.com/user-attachments/assets/c81e599d-4664-4959-94ba-e92d795d0ce4" />
 
